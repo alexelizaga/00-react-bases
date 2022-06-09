@@ -14,3 +14,4 @@
 18. Parametrizar y pulir nuestro custom hook
 19. useReducer
 20. Función pura - Reducer
+21. IncreaseBy - Action
