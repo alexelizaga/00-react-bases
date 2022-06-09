@@ -6,3 +6,4 @@
 10. Primer componente en TypeScript
 11. Trabajando con Interfaces
 12. Manejar un objeto como estado
+13. Optimizaciones y tipado
