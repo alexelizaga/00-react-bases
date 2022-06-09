@@ -8,3 +8,4 @@
 12. Manejar un objeto como estado
 13. Optimizaciones y tipado
 14. useEffect - CounterEffect
+15. Realizar animación cuando se llega al valor máximo
