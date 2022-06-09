@@ -12,3 +12,5 @@
 16. useRef y TimeLines
 17. CustomHooks con referencias HTML
 18. Parametrizar y pulir nuestro custom hook
+19. useReducer
+20. Función pura - Reducer
